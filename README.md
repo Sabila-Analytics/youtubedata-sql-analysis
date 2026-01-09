@@ -126,26 +126,17 @@ Insight:
 **Screenshots**
 
 1.Before Cleaning
-
 (screenshots/before\_cleaning.png)
 
-
-
 2.After Cleaning
-
 (screenshots/after\_cleaning.png)
 
-
-
 3.Analysis Result 1
-
 (screenshots/analysis\_result\_most\_watched.png)
 
-
-
-2.Analysis Result 2
-
+4.Analysis Result 2
 (screenshots/analysis\_result\_top3.png)
+
 
 
 
